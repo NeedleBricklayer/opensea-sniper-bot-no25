@@ -1,4 +1,4 @@
-# 
+# instant opensea sniper bot | wash-trading-detection + private-RPC-nodes is the best opensea sniper bot, featuring wash-trading-detection and private-RPC-nodes. Fast, smart, and
 
 
 
